@@ -17,39 +17,25 @@ This Excel file contains metadata about Netflix movies and TV shows, split into 
 
 ## Titles Sheet
 
-#### ID: Unique identifier for each title.
-
-#### Title: Name of the movie/TV show.
-
-#### Type: MOVIE or SHOW.
-
-#### Release_year: Year of release.
-
-#### Age_certification: Age rating.
-
-#### Runtime: Duration in minutes.
-
-#### Genres: Genre classification.
-
-#### Production_countries: Country of production.
-
-#### Seasons: Number of seasons (for TV shows).
-
-#### IMDB_score: IMDb rating.
-
-#### TMDB_score: TMDB rating.
+- ID: Unique identifier for each title.
+- Title: Name of the movie/TV show.
+- Type: MOVIE or SHOW.
+- Release_year: Year of release.
+- Age_certification: Age rating.
+- Runtime: Duration in minutes.
+- Genres: Genre classification.
+- Production_countries: Country of production.
+- Seasons: Number of seasons (for TV shows).
+- IMDB_score: IMDb rating.
+- TMDB_score: TMDB rating.
 
 ## Credits Sheet
 
-#### Person_id: Unique ID for each person involved.
-
-#### ID: Corresponding title ID.
-
-#### Name: Name of the person.
-
-#### Character: Character played (if applicable).
-
-#### Role: Role in the production (e.g., DIRECTOR, ACTOR).
+- Person_id: Unique ID for each person involved.
+- ID: Corresponding title ID.
+- Name: Name of the person.
+- Character: Character played (if applicable).
+- Role: Role in the production (e.g., DIRECTOR, ACTOR).
 
 ## Steps followed 
 
@@ -106,6 +92,7 @@ Please see the snippet here:
 
 
 - Step 14 : In the report view, under the insert tab, using image option company's logo was added to the report design area. 
+
 Here is the Logo:
 
 ![Image](https://github.com/user-attachments/assets/9c61735b-a01a-44e4-b535-e4f97f48856a)
