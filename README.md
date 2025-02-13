@@ -3,6 +3,12 @@
 ## Overview
 
 This project analyzes Netflix movies and TV shows using a dataset containing metadata about titles, including genres, release years, ratings, and production details. The insights are visualized in a Power BI report to provide a comprehensive understanding of Netflix's content catalog.
+
+## Tool Used:
+- Power BI Desktop
+- Power Query
+- Azure Map
+
 ## Files Included
 
 ### Netflix xlsx: 
