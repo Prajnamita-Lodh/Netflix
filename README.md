@@ -51,7 +51,7 @@ This Excel file contains metadata about Netflix movies and TV shows, split into 
 - Step 4 : _Capitalized each word_ of ID from the Title Sheet in the Power query.
 - Step 5 : To redirect to the Power BI Desktop, click on "Close & Apply" from the File menu of the Power query 
 - Step 6 : In the report view, under the Format pane, select the Black colour for _Canvas Background_.
-- Step 7 : Visual filters (Slicers) were added for four fields named "Genres", "Release Year", & "Title".
+- Step 7 : Visual filters (Slicers) were added for three fields named "Genres", "Release Year", & "Title".
 
 Snap shot of the Slicers:
 
