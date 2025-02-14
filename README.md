@@ -45,7 +45,7 @@ This Excel file contains metadata about Netflix movies and TV shows, split into 
 
 ## Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
+- Step 1 : Load data into Power BI Desktop, dataset is a xlsx file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options."column profiling based on entire dataset".
 - Step 3 : It was observed that in none of the columns errors & empty values were present except column named "Age_certification" & "IMDB_score" in Titles Sheet and "Character" in Credits Sheet.
 - Step 4 : _Capitalized each word_ of ID from the Title Sheet in the Power query.
