@@ -48,16 +48,16 @@ This Excel file contains metadata about Netflix movies and TV shows, split into 
 - Step 1 : Load data into Power BI Desktop, dataset is a xlsx file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options."column profiling based on entire dataset".
 - Step 3 : It was observed that in none of the columns errors & empty values were present except column named "Age_certification" & "IMDB_score" in Titles Sheet and "Character" in Credits Sheet.
-- Step 4 : _Capitalized each word_ of ID from the Title Sheet in the Power query.
-- Step 5 : To redirect to the Power BI Desktop, click on "Close & Apply" from the File menu of the Power query 
+- Step 4 : _Capitalize each word_ of ID from the Title Sheet in the Power query.
+- Step 5 : To redirect to the Power BI Desktop, click on "Close & Apply" from the File menu of the Power Query 
 - Step 6 : In the report view, under the Format pane, select the Black colour for _Canvas Background_.
 - Step 7 : Visual filters (Slicers) were added for three fields named "Genres", "Release Year", & "Title".
 
-Snap shot of the Slicers:
+Snapshot of the Slicers:
 
 ![Image](https://github.com/user-attachments/assets/ad90f202-1536-4269-a489-55434fb3fd54)
 
-- Step 8 : Four card visuals were added to the canvas, one representing total run time (in hours), average rating of IMDb, movies and shows.
+- Step 8 : Four card visuals were added to the canvas, one representing total run time (in hours), average rating of IMDb, movies, and shows.
 
 Snap shot of the Card Visuals:
 
@@ -90,7 +90,7 @@ Snippet of the Donut Chart:
 ![Image](https://github.com/user-attachments/assets/e1fc21e3-6de3-46aa-a0af-1a9ccb828c42)
 
 
-- Step 13 : In the report view, under the insert tab, one text box were added to the canvas. The introductio of Netflix was written in the text box in White colour.
+- Step 13 : In the report view, under the insert tab, one text box was added to the canvas. The introductio of Netflix was written in the text box in White colour.
 
 Please see the snippet here:
 
@@ -121,5 +121,5 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 
 # Conclusion:
-The analysis of Netflix's content library provides valuable insights into trends, genre popularity, and audience preferences. From the data, we can see that Netflix consistently produces content across multiple genres, with certain types like comedy and dramas receiving higher IMDb and TMDB ratings. The country-wise distribution shows that the majority of content originates from the US, followed by other significant contributors. Audience prefer the movies rather than the shows. By leveraging this data, Netflix can optimize its content strategy to focus on high-performing genres and target audience preferences more effectively.
+The analysis of Netflix's content library provides valuable insights into trends, genre popularity, and audience preferences. From the data, we can see that Netflix consistently produces content across multiple genres, with certain types, like comedy and dramas receiving higher IMDb and TMDB ratings. The country-wise distribution shows that the majority of content originates from the US, followed by other significant contributors. The audience prefer the movies rather than the shows. By leveraging this data, Netflix can optimize its content strategy to focus on high-performing genres and target audience preferences more effectively.
 
